@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Appformularios</string>
+    <string name="titulo">Calculadora</string>
+    <string name="valnumero">Ingrese un número</string>
+    <string name="valcalcular">CALCULAR</string>
+    <string name="valPeso">Ingrese el peso</string>
+    <string name="valAltura">Ingrese su altura</string>
+    <string name="valpeso">Ingrese su peso</string>
+</resources>
